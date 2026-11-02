@@ -12,16 +12,27 @@ def generate_json():
     for folder in IMAGE_FOLDERS:
         if not os.path.isdir(folder):
             continue
-        for filename in sorted(os.listdir(folder)):
-            _, ext = os.path.splitext(filename)
-            if ext.lower() not in IMAGE_EXTENSIONS:
-                continue
-            name = os.path.splitext(filename)[0]
-            while name in seen:
-                name = f"{folder}_{name}"
-            seen.add(name)
-            url = f"https://raw.githubusercontent.com/{repo}/main/{folder}/{filename}"
-            icons.append({"name": name, "url": url})
+        for root, dirs, files in os.walk(folder):
+            dirs.sort()
+            for filename in sorted(files):
+                _, ext = os.path.splitext(filename)
+                if ext.lower() not in IMAGE_EXTENSIONS:
+                    continue
+                rel_dir = os.path.relpath(root, folder)
+                rel_path = filename if rel_dir == "." else f"{rel_dir}/{filename}"
+                url_path = f"{folder}/{rel_path}".replace(os.sep, "/")
+                name = os.path.splitext(filename)[0]
+                prefix_parts = []
+                if rel_dir != ".":
+                    prefix_parts = [rel_dir.replace(os.sep, "_")]
+                while name in seen:
+                    if prefix_parts:
+                        name = f"{prefix_parts.pop(0)}_{name}"
+                    else:
+                        name = f"{folder}_{name}"
+                seen.add(name)
+                url = f"https://raw.githubusercontent.com/{repo}/main/{url_path}"
+                icons.append({"name": name, "url": url})
     try:
         with open("icon.json", "r", encoding="utf-8") as old_file:
             old_data = json.load(old_file)
