@@ -3,104 +3,132 @@
   "description": "",
   "icons": [
     {
-      "name": "Surge_G",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Surge.png"
-    },
-    {
-      "name": "SurgePro",
-      "url": "https://raw.githubusercontent.com/Yu9191/-/main/icon/surgepro.png"
-    },
-    {
-      "name": "SurgeProqiyeban",
-      "url": "https://raw.githubusercontent.com/githubdulong/Script/master/Images/Surge.png"
-    },
-    {
-      "name": "Surge_1",
-      "url": "https://raw.githubusercontent.com/githubdulong/Script/master/Images/Surge_1.png"
-    },
-    {
-      "name": "69",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/69.png"
-    },
-    {
-      "name": "Talkatone",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Talkatone.png"
-    },
-    {
-      "name": "Bull",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/BullHead.png"
-    },
-    {
-      "name": "Bull-Black",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bullhead-Black.png"
-    },
-    {
-      "name": "PiaVPN",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/PiaVPN-black.png"
-    },
-    {
-      "name": "Xtreme",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Xtreme.png"
-    },
-    {
-      "name": "Bujidao",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/AppleTV.png"
-    },
-    {
       "name": "AppleTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bujidao.png"
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/AppleTV.png"
     },
     {
-      "name": "Bugcat",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/BUGcat.png"
+      "name": "CatchPlay",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/CatchPlay.png"
     },
     {
-      "name": "WLY",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/WLY.png"
+      "name": "Crunchyroll",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Crunchyroll.png"
     },
     {
-      "name": "Jsq",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Jsq.PNG"
+      "name": "DisneyPlus",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/DisneyPlus.png"
     },
     {
-      "name": "Yezi",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Yezi.PNG"
+      "name": "GagaOOLala",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/GagaOOLala.png"
     },
     {
-      "name": "Nebula",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nebula.PNG"
+      "name": "HBO_max",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HBO_max.png"
     },
     {
-      "name": "Nanflix",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nanflix.PNG"
+      "name": "HBOmax",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HBOmax.png"
     },
     {
-      "name": "Saturday",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Saturday.PNG"
+      "name": "HamiVideo",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HamiVideo.png"
     },
     {
-      "name": "Terminus",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Terminus.PNG"
+      "name": "KKTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/KKTV.png"
     },
     {
-      "name": "youno",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Youno.PNG"
+      "name": "LiTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/LiTV.png"
+    },
+    {
+      "name": "LineTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/LineTV.png"
+    },
+    {
+      "name": "NETFLIX",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/NETFLIX.png"
+    },
+    {
+      "name": "Paramount",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Paramount.png"
+    },
+    {
+      "name": "Peacock",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Peacock.png"
+    },
+    {
+      "name": "PrimeVideo",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/PrimeVideo.png"
+    },
+    {
+      "name": "WeTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/WeTV.png"
+    },
+    {
+      "name": "friday",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/friday.png"
+    },
+    {
+      "name": "hulu-green",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/hulu-green.webp"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/iQIYI.png"
+    },
+    {
+      "name": "iTunes",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/iTunes.png"
+    },
+    {
+      "name": "myVideo",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/myVideo.png"
+    },
+    {
+      "name": "prime-video-black",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/prime-video-black.webp"
+    },
+    {
+      "name": "105",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/105.PNG"
+    },
+    {
+      "name": "ChilledMelon",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/ChilledMelon.PNG"
     },
     {
       "name": "CineTrail",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/CineTrail.PNG"
     },
     {
+      "name": "DPX",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/DPX.PNG"
+    },
+    {
       "name": "Douban",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Douban.PNG"
     },
     {
-      "name": "MoYunGe",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MoYunGe.PNG"
+      "name": "Dpeak",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Dpeak.PNG"
     },
     {
-      "name": "MoYunGe-White",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MoYunGe-White.PNG"
+      "name": "EmbyPlus",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/EmbyPlus.PNG"
+    },
+    {
+      "name": "Emby_Orange",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Emby_Orange.PNG"
+    },
+    {
+      "name": "Feiyue",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Feiyue.PNG"
+    },
+    {
+      "name": "JMS",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/JMS.PNG"
     },
     {
       "name": "Jingzhe-Black",
@@ -111,12 +139,44 @@
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Jingzhe-White.PNG"
     },
     {
-      "name": "Peach-Black",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Peach-Black.PNG"
+      "name": "Jsq",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Jsq.PNG"
     },
     {
-      "name": "Peach-White",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Peach-White.PNG"
+      "name": "KFCv50",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/KFCv50.PNG"
+    },
+    {
+      "name": "Luob",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Luob.PNG"
+    },
+    {
+      "name": "MSKY",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MSKY.PNG"
+    },
+    {
+      "name": "Misty",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Misty.PNG"
+    },
+    {
+      "name": "MoYunGe-White",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MoYunGe-White.PNG"
+    },
+    {
+      "name": "MoYunGe",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MoYunGe.PNG"
+    },
+    {
+      "name": "Nanflix",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nanflix.PNG"
+    },
+    {
+      "name": "Nebula",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nebula.PNG"
+    },
+    {
+      "name": "Nya",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nya.PNG"
     },
     {
       "name": "PAUL",
@@ -127,20 +187,24 @@
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Paul.PNG"
     },
     {
-      "name": "TeCar",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/TeCar.PNG"
+      "name": "Peach-Black",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Peach-Black.PNG"
     },
     {
-      "name": "JMS",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/JMS.PNG"
+      "name": "Peach-White",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Peach-White.PNG"
     },
     {
-      "name": "EmbyPlus",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/EmbyPlus.PNG"
+      "name": "PiaVPN-black",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/PiaVPN-black.png"
     },
     {
-      "name": "CWyjy",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/CWyjy.PNG"
+      "name": "PlayZ",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/PlayZ.PNG"
+    },
+    {
+      "name": "Plus",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Plus.PNG"
     },
     {
       "name": "RJ",
@@ -151,296 +215,236 @@
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/RuJi.PNG"
     },
     {
-      "name": "ChilledMelon",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/ChilledMelon.PNG"
-    },
-    {
-      "name": "Wenjian",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Wenjian.PNG"
-    },
-    {
-      "name": "WENJIAN",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/WENJIAN.PNG"
-    },
-    {
-      "name": "Misty",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Misty.PNG"
-    },
-    {
-      "name": "Feiyue",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Feiyue.PNG"
-    },
-    {
-      "name": "Tdck",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Tdck.PNG"
-    },
-    {
-      "name": "Plus",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Plus.PNG"
-    },
-    {
-      "name": "DPX",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/DPX.PNG"
-    },
-    {
-      "name": "Nya",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Nya.PNG"
-    },
-    {
-      "name": "Dpeak",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Dpeak.PNG"
-    },
-    {
-      "name": "TV-Tokyo",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/TV-Tokyo.PNG"
-    },
-    {
-      "name": "AMC",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/AMC.PNG"
-    },
-    {
-      "name": "Disney",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Disney.PNG"
-    },
-    {
-      "name": "Netflix",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Netflix.png"
-    },
-    {
-      "name": "Hulu",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Hulu.PNG"
-    },
-    {
-      "name": "NBC",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/NBC.PNG"
-    },
-    {
-      "name": "105",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/105.PNG"
-    },
-    {
-      "name": "A24",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/A24.PNG"
-    },
-    {
-      "name": "BlumHouse",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/BlumHouse.PNG"
-    },
-    {
-      "name": "China_Film_Group",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/China_Film_Group.PNG"
-    },
-    {
-      "name": "MSKY",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/MSKY.PNG"
-    },
-    {
-      "name": "PlayZ",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/PlayZ.PNG"
+      "name": "SNTP",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/SNTP.PNG"
     },
     {
       "name": "Saturday.Lite",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Saturday.Lite.PNG"
     },
     {
-      "name": "Working_Title",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Working_Title.PNG"
-    },
-    {
-      "name": "ZOX",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/ZOX.PNG"
-    },
-    {
-      "name": "ViuTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/ViuTV.PNG"
-    },
-    {
-      "name": "Prime_Video",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Prime_Video.PNG"
-    },
-    {
-      "name": "iQiyi",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/iQiyi.PNG"
-    },
-    {
-      "name": "Max",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Max.PNG"
-    },
-    {
-      "name": "Paramount",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Paramount.PNG"
-    },
-    {
-      "name": "Zn",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Zn.PNG"
-    },
-    {
-      "name": "GMMTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/GMMTV.PNG"
-    },
-    {
-      "name": "Channel3",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Channel3.PNG"
-    },
-    {
-      "name": "AmarinTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/AmarinTV.PNG"
-    },
-    {
-      "name": "One31",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/One31.PNG"
-    },
-    {
-      "name": "KFCv50",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/KFCv50.PNG"
-    },
-    {
-      "name": "SNTP",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/SNTP.PNG"
+      "name": "Saturday",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Saturday.PNG"
     },
     {
       "name": "Shrek",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Shrek.PNG"
     },
     {
+      "name": "Tdck",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Tdck.PNG"
+    },
+    {
+      "name": "TeCar",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/TeCar.PNG"
+    },
+    {
+      "name": "Terminus",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Terminus.PNG"
+    },
+    {
+      "name": "WENJIAN",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/WENJIAN.PNG"
+    },
+    {
+      "name": "Wenjian",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Wenjian.PNG"
+    },
+    {
+      "name": "Yezi",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Yezi.PNG"
+    },
+    {
+      "name": "Youno",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Youno.PNG"
+    },
+    {
+      "name": "ZOX",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/ZOX.PNG"
+    },
+    {
+      "name": "Zn",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Zn.PNG"
+    },
+    {
+      "name": "Rex-Black",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex-Black.png"
+    },
+    {
+      "name": "Rex",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex.PNG"
+    },
+    {
+      "name": "Rex_Orange",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Orange.PNG"
+    },
+    {
       "name": "Rex_Purple",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Purple.PNG"
     },
     {
-      "name": "Badges_AppleTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/AppleTV.png"
-    },
-    {
-      "name": "Badges_CatchPlay",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/CatchPlay.png"
-    },
-    {
-      "name": "Badges_Crunchyroll",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Crunchyroll.png"
-    },
-    {
-      "name": "Badges_DisneyPlus",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/DisneyPlus.png"
-    },
-    {
-      "name": "Badges_friday",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/friday.png"
-    },
-    {
-      "name": "Badges_GagaOOLala",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/GagaOOLala.png"
-    },
-    {
-      "name": "Badges_HamiVideo",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HamiVideo.png"
-    },
-    {
-      "name": "Badges_HBO_max",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HBO_max.png"
-    },
-    {
-      "name": "Badges_HBOmax",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/HBOmax.png"
-    },
-    {
-      "name": "Badges_hulu-green",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/hulu-green.webp"
-    },
-    {
-      "name": "Badges_iQIYI",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/iQIYI.png"
-    },
-    {
-      "name": "Badges_iTunes",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/iTunes.png"
-    },
-    {
-      "name": "Badges_KKTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/KKTV.png"
-    },
-    {
-      "name": "Badges_LineTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/LineTV.png"
-    },
-    {
-      "name": "Badges_LiTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/LiTV.png"
-    },
-    {
-      "name": "Badges_myVideo",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/myVideo.png"
-    },
-    {
-      "name": "Badges_NETFLIX",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/NETFLIX.png"
-    },
-    {
-      "name": "Badges_Paramount",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Paramount.png"
-    },
-    {
-      "name": "Badges_Peacock",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/Peacock.png"
-    },
-    {
-      "name": "Badges_prime-video-black",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/prime-video-black.webp"
-    },
-    {
-      "name": "Badges_PrimeVideo",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/PrimeVideo.png"
-    },
-    {
-      "name": "Badges_WeTV",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Badges/WeTV.png"
-    },
-    {
-      "name": "Emby_Emby_Orange",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Emby_Orange.PNG"
-    },
-    {
-      "name": "Emby_Luob",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Emby/Luob.PNG"
-    },
-    {
-      "name": "Rex_Rex_Orange",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Orange.PNG"
-    },
-    {
-      "name": "Rex_Rex_Rainbow_Lite",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Rainbow_Lite.PNG"
-    },
-    {
-      "name": "Rex_Rex_Rainbow",
+      "name": "Rex_Rainbow",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Rainbow.PNG"
     },
     {
-      "name": "Rex_Rex_Red",
+      "name": "Rex_Rainbow_Lite",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Rainbow_Lite.PNG"
+    },
+    {
+      "name": "Rex_Red",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_Red.PNG"
     },
     {
-      "name": "Rex_Rex_White",
+      "name": "Rex_White",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex_White.PNG"
     },
     {
-      "name": "Rex_Rex",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Rex/Rex.PNG"
+      "name": "69",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/69.png"
     },
     {
-      "name": "Surge_Bugcat",
-      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bugcat.png"
+      "name": "Surge_AppleTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/AppleTV.png"
     },
     {
-      "name": "Surge_BugCat",
+      "name": "BUGcat",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/BUGcat.png"
+    },
+    {
+      "name": "BugCat",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/BugCat.png"
     },
     {
-      "name": "Surge_Surge1",
+      "name": "Bugcat",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bugcat.png"
+    },
+    {
+      "name": "Bujidao",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bujidao.png"
+    },
+    {
+      "name": "BullHead",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/BullHead.png"
+    },
+    {
+      "name": "Bullhead-Black",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Bullhead-Black.png"
+    },
+    {
+      "name": "CWyjy",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/CWyjy.PNG"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Surge.png"
+    },
+    {
+      "name": "Surge1",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Surge1.png"
     },
     {
-      "name": "VideoPlayer_Walking_Title",
+      "name": "SurgeProqiyeban",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/SurgeProqiyeban.png"
+    },
+    {
+      "name": "Surge_1",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Surge_1.png"
+    },
+    {
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Talkatone.png"
+    },
+    {
+      "name": "WLY",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/WLY.png"
+    },
+    {
+      "name": "Xtreme",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/Surge/Xtreme.png"
+    },
+    {
+      "name": "A24",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/A24.PNG"
+    },
+    {
+      "name": "AMC",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/AMC.PNG"
+    },
+    {
+      "name": "AmarinTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/AmarinTV.PNG"
+    },
+    {
+      "name": "BlumHouse",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/BlumHouse.PNG"
+    },
+    {
+      "name": "Channel3",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Channel3.PNG"
+    },
+    {
+      "name": "China_Film_Group",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/China_Film_Group.PNG"
+    },
+    {
+      "name": "Disney",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Disney.PNG"
+    },
+    {
+      "name": "GMMTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/GMMTV.PNG"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Hulu.PNG"
+    },
+    {
+      "name": "Max",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Max.PNG"
+    },
+    {
+      "name": "NBC",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/NBC.PNG"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Netflix.png"
+    },
+    {
+      "name": "One31",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/One31.PNG"
+    },
+    {
+      "name": "VideoPlayer_Paramount",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Paramount.PNG"
+    },
+    {
+      "name": "Prime_Video",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Prime_Video.PNG"
+    },
+    {
+      "name": "TV-Tokyo",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/TV-Tokyo.PNG"
+    },
+    {
+      "name": "ViuTV",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/ViuTV.PNG"
+    },
+    {
+      "name": "Walking_Title",
       "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Walking_Title.PNG"
+    },
+    {
+      "name": "Working_Title",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/Working_Title.PNG"
+    },
+    {
+      "name": "iQiyi",
+      "url": "https://raw.githubusercontent.com/KristenYT/icon/main/VideoPlayer/iQiyi.PNG"
+    },
+    {
+      "name": "SurgePro",
+      "url": "https://raw.githubusercontent.com/Yu9191/-/main/icon/surgepro.png"
     }
   ]
 }
