@@ -1,7 +1,7 @@
 import json
 import os
 
-IMAGE_FOLDERS = ["Badges", "Emby", "Rex", "Surge", "VideoPlayer"]
+IMAGE_FOLDERS = ["Badges", "Emby", "Other", "Rex", "Surge", "VideoPlayer"]
 IMAGE_EXTENSIONS = {".png", ".webp"}
 
 
